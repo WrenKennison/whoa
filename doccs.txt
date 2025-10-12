@@ -1,0 +1,37 @@
+hello, whoever is reading. 
+
+these are my notes on this website. 
+
+if yer reading this then I suppose you're running this now?
+
+can't think of anyone else but who knows. 
+
+anyways...
+
+the basic layout is this
+
+- folders for each category of page
+	- the MUSIC folder has music related things
+		- album pages
+		- songs
+		- lyrics
+		- things
+	- the REAL folder has people related things
+		- bio pages
+		- shows
+		- other bands
+		- etc
+	- the META folder has website related things
+		- website pages
+		- info pages 
+		- etc
+
+within these, just a bin of pages. BUT, each html file is within its own folder, with a CSS file. 
+
+there are 2 reasons: 
+
+1 - every page can have a customized look, since it has its own CSS file, which is conveniently stored right next to it. 
+	- most pages will just use the default. but if they DO use a custom one, there's a great spac for it
+2 - each file can just be named 'index.html', which means that when you access the page, you won't see a ".html" at the end of the link. 
+
+I personally don't care enough to do this on my own website, but I figure I might as well do it right this time. 

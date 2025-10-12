@@ -1,0 +1,34 @@
+
+body {
+  background-image: url('../IMAGES/treesbackground.jpg');
+  background-size: cover;
+  z-index: -2;
+  max-width: 400px;
+  font-family: monospace;
+}
+
+.right {
+  float: right;
+  
+}
+
+.center {
+  text-align: center;
+  margin: 0 auto;
+  
+}
+
+#left {
+  float: left;
+  
+}
+
+p,h1,h2,h3,h4,h5,nav{
+  color: white;
+  background: rgba(0, 0, 0, .7);
+  display: inline-block;
+  font-family: Consolas;
+  opacity: 1;
+  margin-right: auto;
+  
+}
